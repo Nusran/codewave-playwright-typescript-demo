@@ -8,7 +8,7 @@ import testData from '../data/testData.json';
  * If these ran in parallel, they would conflict with each other on the same account.
  */
 test.describe.configure({ mode: 'serial' });
-
+qwertyresdf
 test.describe('Cart Management Flow', () => {
   let daraz: DarazPage;
   let loginPage: LoginPage;
